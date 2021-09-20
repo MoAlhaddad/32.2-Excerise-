@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "ExShoppinglist",
+			"path": "..\\..\\Downloads\\express-shopping-list-solution\\ExShoppinglist"
+		},
+		{
+			"name": "express-shopping-list-solution",
+			"path": "..\\..\\Downloads\\express-shopping-list-solution\\express-shopping-list-solution"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "express-shopping-list-solution",
+		"liveServer.settings.port": 5502
+	}
+}
